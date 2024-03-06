@@ -1,7 +1,7 @@
 {
   "name": "react-starter-kit",
   "version": "1.0.0",
-  "homepage": "https://mvdegtyar.github.io/cviceni-pokrocila-komunikace",
+  "homepage": "https://mvdegtyar.github.io/cviceni-pokrocila-komunikace/",
   "description": "Starter kit for React JavaScript project",
   "type": "module",
   "scripts": {
